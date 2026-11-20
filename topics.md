@@ -255,7 +255,7 @@
 ## ai-agents 
 
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
-- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - The AI workspace for experts. Switch across 800+ models mid-chat, tune 40+ parameters, Beam models side by side. BYO keys, self-hostable. Built on our native-protocol engine: reliable, hyper-configura
 
 ## algorithm 
 
@@ -418,6 +418,7 @@
 
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - The AI workspace for experts. Switch across 800+ models mid-chat, tune 40+ parameters, Beam models side by side. BYO keys, self-hostable. Built on our native-protocol engine: reliable, hyper-configura
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS
 
 ## claude-code 
@@ -1002,6 +1003,7 @@
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - The AI workspace for experts. Switch across 800+ models mid-chat, tune 40+ parameters, Beam models side by side. BYO keys, self-hostable. Built on our native-protocol engine: reliable, hyper-configura
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 
 ## low-code 
