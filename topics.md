@@ -1268,7 +1268,6 @@
 - [spiderwebtr/isauth](https://github.com/spiderwebtr/isauth) - This package provides control to check if user session dead before submit forms. If the session is dead, a modal will reveal and ask password to re-login.
 - [jsdf/little-virtual-computer](https://github.com/jsdf/little-virtual-computer) - Learn how computers work by simulating them in Javascript
 - [FreeFeed/freefeed-server](https://github.com/FreeFeed/freefeed-server) - FreeFeed server
-- [grikomsn/multiverse](https://github.com/grikomsn/multiverse) - 👀
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [RustDili/dokuman](https://github.com/RustDili/dokuman) - Rust Türkçe Dökümanları
 - [tailwindlabs/tailwindui-vue](https://github.com/tailwindlabs/tailwindui-vue) - Deprecated, please use the Headless UI repo instead.
@@ -1371,6 +1370,7 @@
 ## portfolio 
 
 - [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
+- [grikomsn/multiverse](https://github.com/grikomsn/multiverse) - Griko Nibras's sites (nibras.co, its archive of every past version, and nbr.st) and the Sanity CMS that feeds them
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 
 ## postgresql 
