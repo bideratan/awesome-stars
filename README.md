@@ -44,6 +44,7 @@
 
 ## Astro 
 
+- [grikomsn/multiverse](https://github.com/grikomsn/multiverse) - Griko Nibras's sites (nibras.co, its archive of every past version, and nbr.st) and the Sanity CMS that feeds them
 - [mikemcbride/website](https://github.com/mikemcbride/website) - my personal website
 
 ## Blade 
@@ -231,7 +232,6 @@
 - [BillyDM/awesome-audio-dsp](https://github.com/BillyDM/awesome-audio-dsp) - My curated list of audio DSP and plugin development resources (Github fork)
 - [nuxt/framework](https://github.com/nuxt/framework) - Old repo of Nuxt 3 framework, now on nuxt/nuxt
 - [arasatasaygin/openlogos](https://github.com/arasatasaygin/openlogos) - Free logos for open source projects
-- [grikomsn/multiverse](https://github.com/grikomsn/multiverse) - 👀
 - [nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - A list of resources for those interested in getting started in bug bounties
 - [alexeymezenin/laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices) - Laravel best practices
 - [rainyear/javascript-in-one-pic](https://github.com/rainyear/javascript-in-one-pic) - Learn javascript in one picture.
